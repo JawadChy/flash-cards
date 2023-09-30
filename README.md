@@ -41,7 +41,7 @@ GIF created with ShareX
 
 ## Notes
 
-I had a bit of issues with a specific function in App.jsx that was meant to goto a random card each time the user clicked the next button. I think the way I did it works fine, but is convoluted. An easier route would have been to just shuffle the flashcards array at the start, and then just iterate through it. That would've been more efficient as well. Also I wanted to make it so that every time the user clicked the card it would flip, but run into issues with the image of specific cards being messed up, and then text just not appearing on the backside of a card randomly. I'll try to see why these issues occured later down the line.
+I had a bit of issues with a specific function in App.jsx that was meant to goto a random card each time the user clicked the next button. I think the way I did it works fine, but is convoluted. An easier route would have been to just shuffle the flashcards array at the start, and then just iterate through it. That would've been more efficient as well. Also I wanted to make it so that every time the user clicked the card it would flip, but ran into issues with the image of specific cards being messed up, and then text just not appearing on the backside of a card randomly. I'll try to see why these issues occured later down the line.
 
 ## License
 
